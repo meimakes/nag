@@ -1,5 +1,8 @@
 # nag
 
+
+Built by [@meimakes](https://x.com/meimakes)
+
 [![ClawHub](https://img.shields.io/badge/ClawHub-nag-blue)](https://clawhub.ai/meimakes/nag)
 
 An OpenClaw skill for persistent reminders that won't shut up until you confirm.
